@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connorrich
-- 👀 I’m interested in math @ computer science
+- 👀 I’m interested in math & computer science
 - 💞️ I’m looking to collaborate on anything cs or math based
 
 
